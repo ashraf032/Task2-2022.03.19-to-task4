@@ -1,0 +1,16 @@
+C:\Users\Qasimov\source\repos\3ededlininfaizi2\3ededlininfaizi2\bin\Debug\net5.0\3ededlininfaizi2.exe
+C:\Users\Qasimov\source\repos\3ededlininfaizi2\3ededlininfaizi2\bin\Debug\net5.0\3ededlininfaizi2.deps.json
+C:\Users\Qasimov\source\repos\3ededlininfaizi2\3ededlininfaizi2\bin\Debug\net5.0\3ededlininfaizi2.runtimeconfig.json
+C:\Users\Qasimov\source\repos\3ededlininfaizi2\3ededlininfaizi2\bin\Debug\net5.0\3ededlininfaizi2.runtimeconfig.dev.json
+C:\Users\Qasimov\source\repos\3ededlininfaizi2\3ededlininfaizi2\bin\Debug\net5.0\3ededlininfaizi2.dll
+C:\Users\Qasimov\source\repos\3ededlininfaizi2\3ededlininfaizi2\bin\Debug\net5.0\ref\3ededlininfaizi2.dll
+C:\Users\Qasimov\source\repos\3ededlininfaizi2\3ededlininfaizi2\bin\Debug\net5.0\3ededlininfaizi2.pdb
+C:\Users\Qasimov\source\repos\3ededlininfaizi2\3ededlininfaizi2\obj\Debug\net5.0\3ededlininfaizi2.csproj.AssemblyReference.cache
+C:\Users\Qasimov\source\repos\3ededlininfaizi2\3ededlininfaizi2\obj\Debug\net5.0\3ededlininfaizi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qasimov\source\repos\3ededlininfaizi2\3ededlininfaizi2\obj\Debug\net5.0\3ededlininfaizi2.AssemblyInfoInputs.cache
+C:\Users\Qasimov\source\repos\3ededlininfaizi2\3ededlininfaizi2\obj\Debug\net5.0\3ededlininfaizi2.AssemblyInfo.cs
+C:\Users\Qasimov\source\repos\3ededlininfaizi2\3ededlininfaizi2\obj\Debug\net5.0\3ededlininfaizi2.csproj.CoreCompileInputs.cache
+C:\Users\Qasimov\source\repos\3ededlininfaizi2\3ededlininfaizi2\obj\Debug\net5.0\3ededlininfaizi2.dll
+C:\Users\Qasimov\source\repos\3ededlininfaizi2\3ededlininfaizi2\obj\Debug\net5.0\ref\3ededlininfaizi2.dll
+C:\Users\Qasimov\source\repos\3ededlininfaizi2\3ededlininfaizi2\obj\Debug\net5.0\3ededlininfaizi2.pdb
+C:\Users\Qasimov\source\repos\3ededlininfaizi2\3ededlininfaizi2\obj\Debug\net5.0\3ededlininfaizi2.genruntimeconfig.cache
